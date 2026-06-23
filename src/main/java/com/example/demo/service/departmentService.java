@@ -12,8 +12,8 @@ import java.util.List;
 @Service
 public class departmentService {
 
-    @Autowired
-    private departmentRepository repository;
+//    @Autowired
+//    private departmentRepository repository;
 
 
     // GET ALL
